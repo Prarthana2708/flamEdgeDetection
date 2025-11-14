@@ -1,3 +1,4 @@
+// initial cpp commit
 #include <opencv2/opencv.hpp>
 #include <iostream>
 using namespace cv;
@@ -21,3 +22,4 @@ int main() {
     cout << "✅ Edge detection done. Saved as edge_result.jpg" << endl;
     return 0;
 }
+
